@@ -6,7 +6,7 @@ Tested up to: 6.8
 Requires PHP: 7.4
 Stable tag: 1.0.0
 License: GPL-2.0-or-later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License URI: https://www.insospark.com
 
 A configurable event registration and booking system for WordPress with attendee management, packages, add-ons, payment plans, PayPal, Stripe, and email notifications.
 
